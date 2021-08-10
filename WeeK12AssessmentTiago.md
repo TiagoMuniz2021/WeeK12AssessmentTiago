@@ -74,3 +74,4 @@ A resource group can be understanding as a collection of virtual networks, web a
 15. What is Region in Azure?
 
 A collection of datacenters deployed with a latency-defined perimeter and connected trough a dedicated regional low-latency network. 
+
